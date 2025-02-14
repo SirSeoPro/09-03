@@ -16,7 +16,7 @@
 rsync -avh --delete --checksum --exclude='.*/' /home/ivon/lessons /tmp/backup
 ```
 
-![image]()
+![image](https://github.com/SirSeoPro/09-03/blob/main/1.png)
 
 </details>
 
@@ -47,6 +47,6 @@ fi
 
 Кронтаб:
 
-![image]()
+![image](https://github.com/SirSeoPro/09-03/blob/main/2.png)
 
 </details>
